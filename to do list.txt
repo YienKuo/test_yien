@@ -1,3 +1,5 @@
 Learn git
 Cut eyes
 Make dinner
+Eat lunch
+Make a branch
